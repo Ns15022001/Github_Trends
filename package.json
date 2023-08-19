@@ -10,7 +10,7 @@
     "format": "prettier --write \"/**/*.{js,jsx,ts,tsx,json,css,md,html,graphql}\""
   },
   "engines": {
-    "node": "16.16.0"
+    "node": "18.x"
   },
   "dependencies": {
     "next": "^13.4.13",
